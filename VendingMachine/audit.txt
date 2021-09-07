@@ -1,0 +1,20 @@
+2021-08-17T00:29:07.195168 : User purchased Reese's Half Pound Cup @ $2.75 from row 4
+2021-08-17T01:29:57.155194 : User purchased Thirsty Buddha Sparkling Coconut Water 11.2oz @ $1.85 from row 10
+2021-08-17T02:44:10.001226 : User purchased Clif Bar Chocolate Almond Fudge @ $1.70 from row 2
+2021-08-17T02:44:29.665173 : User purchased Canada Dry Ginger Ale 12 oz @ $2.00 from row 8
+2021-08-17T02:48:12.883234 : User purchased Matcha KitKat @ $2.00 from row 5
+2021-08-17T08:13:43.092590 : User purchased Canada Dry Ginger Ale 12 oz @ $2.00 from row 8
+2021-08-17T08:56:17.599882 : User purchased Vickie's Applewood Barbecue @ $1.50 from row 3
+2021-08-17T21:28:08.570645 : User purchased Ruffles Sour Cream 'N Onion @ $1.75 from row 1
+2021-08-17T22:35:10.626018 : User purchased Vickie's Applewood Barbecue @ $1.50 from row 3
+2021-08-18T04:38:32.802463 : User purchased Pepsi 12 oz @ $2.00 from row 7
+2021-08-18T04:38:55.172661 : User purchased Ruffles Sour Cream 'N Onion @ $1.75 from row 1
+2021-08-18T04:39:13.674391 : User purchased Ruffles Sour Cream 'N Onion @ $1.75 from row 1
+2021-08-18T04:40:27.980564 : User purchased Thirsty Buddha Sparkling Coconut Water 11.2oz @ $1.85 from row 10
+2021-08-18T09:30:18.736977 : User purchased Vickie's Applewood Barbecue @ $1.50 from row 3
+2021-08-19T07:33:17.564688 : User purchased Coca Cola Zero Sugar 12 oz @ $2.00 from row 6
+2021-08-19T07:34:48.369954 : User purchased Pepsi 12 oz @ $2.00 from row 7
+2021-08-19T08:04:53.067120 : User purchased Thirsty Buddha Sparkling Coconut Water 11.2oz @ $1.85 from row 10
+2021-08-19T09:32:40.245547 : User purchased Vickie's Applewood Barbecue @ $1.50 from row 3
+2021-08-23T04:22:52.194840 : User purchased Ruffles Sour Cream 'N Onion @ $1.75 from row 1
+2021-09-07T03:20:41.675819 : User purchased Canada Dry Ginger Ale 12 oz @ $2.00 from row 8

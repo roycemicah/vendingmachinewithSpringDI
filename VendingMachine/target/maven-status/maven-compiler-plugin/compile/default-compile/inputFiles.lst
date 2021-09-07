@@ -1,0 +1,16 @@
+/Users/roysk93/Desktop/The Software Guild/VendingMachine/src/main/java/com/sg/vendingmachine/dto/VendItem.java
+/Users/roysk93/Desktop/The Software Guild/VendingMachine/src/main/java/com/sg/vendingmachine/servicelayer/VendingMachineServiceLayerFileImpl.java
+/Users/roysk93/Desktop/The Software Guild/VendingMachine/src/main/java/com/sg/vendingmachine/servicelayer/VendingMachineServiceLayer.java
+/Users/roysk93/Desktop/The Software Guild/VendingMachine/src/main/java/com/sg/vendingmachine/ui/UserIOConsoleImpl.java
+/Users/roysk93/Desktop/The Software Guild/VendingMachine/src/main/java/com/sg/vendingmachine/servicelayer/NoItemInventoryException.java
+/Users/roysk93/Desktop/The Software Guild/VendingMachine/src/main/java/com/sg/vendingmachine/dao/VendingMachineDaoFileImpl.java
+/Users/roysk93/Desktop/The Software Guild/VendingMachine/src/main/java/com/sg/vendingmachine/enums/Coin.java
+/Users/roysk93/Desktop/The Software Guild/VendingMachine/src/main/java/com/sg/vendingmachine/dao/VendingMachineDao.java
+/Users/roysk93/Desktop/The Software Guild/VendingMachine/src/main/java/com/sg/vendingmachine/controller/VendingMachineController.java
+/Users/roysk93/Desktop/The Software Guild/VendingMachine/src/main/java/com/sg/vendingmachine/dao/VendingMachineAuditDaoFileImpl.java
+/Users/roysk93/Desktop/The Software Guild/VendingMachine/src/main/java/com/sg/vendingmachine/dao/VendingMachineAuditDao.java
+/Users/roysk93/Desktop/The Software Guild/VendingMachine/src/main/java/com/sg/vendingmachine/ui/UserIO.java
+/Users/roysk93/Desktop/The Software Guild/VendingMachine/src/main/java/com/sg/vendingmachine/App.java
+/Users/roysk93/Desktop/The Software Guild/VendingMachine/src/main/java/com/sg/vendingmachine/ui/VendingMachineView.java
+/Users/roysk93/Desktop/The Software Guild/VendingMachine/src/main/java/com/sg/vendingmachine/dao/VendingMachineDaoPersistenceException.java
+/Users/roysk93/Desktop/The Software Guild/VendingMachine/src/main/java/com/sg/vendingmachine/servicelayer/InsufficientFundsException.java

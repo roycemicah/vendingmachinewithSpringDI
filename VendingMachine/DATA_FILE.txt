@@ -1,0 +1,10 @@
+1::Ruffles Sour Cream 'N Onion::1.75::3
+2::Clif Bar Chocolate Almond Fudge::1.70::7
+3::Vickie's Applewood Barbecue::1.50::0
+4::Reese's Half Pound Cup::2.75::5
+5::Matcha KitKat::2.00::19
+6::Coca Cola Zero Sugar 12 oz::2.00::11
+7::Pepsi 12 oz::2.00::13
+8::Canada Dry Ginger Ale 12 oz::2.00::14
+9::Vitamin Water Multi-V Lemonade 591mL::2.75::11
+10::Thirsty Buddha Sparkling Coconut Water 11.2oz::1.85::11
