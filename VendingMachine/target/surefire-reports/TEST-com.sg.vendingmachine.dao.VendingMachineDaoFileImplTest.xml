@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.sg.vendingmachine.dao.VendingMachineDaoFileImplTest" time="0.269" tests="3" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.sg.vendingmachine.dao.VendingMachineDaoFileImplTest" time="0.182" tests="3" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="11.0.11+9"/>
@@ -64,7 +64,7 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase name="testAddGetAllItems" classname="com.sg.vendingmachine.dao.VendingMachineDaoFileImplTest" time="0.191"/>
-  <testcase name="testUpdateItemQuantity" classname="com.sg.vendingmachine.dao.VendingMachineDaoFileImplTest" time="0.014"/>
-  <testcase name="testAddGetItem" classname="com.sg.vendingmachine.dao.VendingMachineDaoFileImplTest" time="0.009"/>
+  <testcase name="testAddGetAllItems" classname="com.sg.vendingmachine.dao.VendingMachineDaoFileImplTest" time="0.139"/>
+  <testcase name="testUpdateItemQuantity" classname="com.sg.vendingmachine.dao.VendingMachineDaoFileImplTest" time="0.007"/>
+  <testcase name="testAddGetItem" classname="com.sg.vendingmachine.dao.VendingMachineDaoFileImplTest" time="0.007"/>
 </testsuite>

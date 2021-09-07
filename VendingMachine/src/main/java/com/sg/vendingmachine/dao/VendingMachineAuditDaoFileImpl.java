@@ -15,14 +15,13 @@ import java.time.LocalDateTime;
  * @author Royce Rabanal
  * GitHub: https://github.com/roycemicah
  * Email: royce.rabanal93@gmail.com
- * Date: August 18th, 2021
- * Purpose: Milestone 3 Assessment: Vending Machine Exercise
+ * Date: September 7th, 2021
+ * Purpose: Milestone 4 Assessment: Vending Machine with Spring DI Exercise
  */
 public class VendingMachineAuditDaoFileImpl implements VendingMachineAuditDao {
     
     public static final String AUDIT_FILE = "audit.txt";
-    
-    // this method is called from the service layer
+
     @Override
     public void writeAuditEntry(String entry) throws VendingMachineDaoPersistenceException {
         PrintWriter out;

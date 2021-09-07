@@ -20,8 +20,8 @@ import org.junit.jupiter.api.Test;
  * @author Royce Rabanal
  * GitHub: https://github.com/roycemicah
  * Email: royce.rabanal93@gmail.com
- * Date: August 18th, 2021
- * Purpose: Milestone 3 Assessment: Vending Machine Exercise
+ * Date: September 7th, 2021
+ * Purpose: Milestone 4 Assessment: Vending Machine with Spring DI Exercise
  */
 public class VendingMachineDaoFileImplTest {
 
@@ -48,18 +48,9 @@ public class VendingMachineDaoFileImplTest {
         int itemCount = 6;
 
         VendItem testItem = new VendItem(itemRow, itemName, itemPrice, itemCount);
-
         testDao.addItem(testItem);
-
         VendItem retrievedItem = testDao.getItem(itemRow);
-        // this is the shorter form, equating both objects and comparing their properties
         assertEquals(testItem, retrievedItem);
-
-        /* With the generated hashCode, this is no longer necessary.
-        assertEquals(testItem.getRow(), retrievedItem.getRow(), "Checking row for item.");
-        assertEquals(testItem.getItem(), retrievedItem.getItem(), "Checking item name.");
-        assertEquals(testItem.getPrice(), retrievedItem.getPrice(), "Checking item price.");
-        assertEquals(testItem.getQuantity(), retrievedItem.getQuantity(), "Checking quantity.");*/
 
     }
     

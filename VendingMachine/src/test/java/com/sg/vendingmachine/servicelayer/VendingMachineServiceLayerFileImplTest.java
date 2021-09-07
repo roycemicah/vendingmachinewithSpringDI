@@ -19,8 +19,8 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
  * @author Royce Rabanal
  * GitHub: https://github.com/roycemicah
  * Email: royce.rabanal93@gmail.com
- * Date: August 18th, 2021
- * Purpose: Milestone 3 Assessment: Vending Machine Exercise
+ * Date: September 7th, 2021
+ * Purpose: Milestone 4 Assessment: Vending Machine with Spring DI Exercise
  */
 public class VendingMachineServiceLayerFileImplTest {
     
@@ -30,12 +30,7 @@ public class VendingMachineServiceLayerFileImplTest {
         
         ApplicationContext ctx = new ClassPathXmlApplicationContext("applicationContextTest.xml");
         service = ctx.getBean("serviceLayer", VendingMachineServiceLayer.class);
-        
-        /*
-        VendingMachineDao dao = new VendingMachineDaoStubImpl();
-        VendingMachineAuditDao audit = new VendingMachineAuditDaoStubImpl();
-        service = new VendingMachineServiceLayerFileImpl(dao, audit);
-        */
+
     }
 
     @Test

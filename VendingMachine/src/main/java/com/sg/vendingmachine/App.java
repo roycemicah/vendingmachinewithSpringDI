@@ -30,17 +30,6 @@ public class App {
         VendingMachineController controller = ctx.getBean("controller", VendingMachineController.class);
         controller.run();
 
-        /*
-        VendingMachineDao dao = new VendingMachineDaoFileImpl();
-        VendingMachineAuditDao audit = new VendingMachineAuditDaoFileImpl();
-        VendingMachineServiceLayer service = new VendingMachineServiceLayerFileImpl(dao, audit);
-        
-        UserIO io = new UserIOConsoleImpl();
-        VendingMachineView view = new VendingMachineView(io);
-        
-        VendingMachineController controller = new VendingMachineController(service, view);
-        controller.run(); */
-
     }
     
 }
